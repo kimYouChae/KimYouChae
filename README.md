@@ -48,3 +48,9 @@ Viedo       : https://www.youtube.com/watch?v=aq9Y19iT0CA
 Repository  : https://github.com/kimYouChae/BamSurvival
 
 Viedo       : -
+
+</br>
+<hr>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhstar2486)](https://solved.ac/kjhstar2486)
