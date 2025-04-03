@@ -31,7 +31,7 @@ Viedo       : https://www.youtube.com/watch?v=aq9Y19iT0CA
 #### 👉 ECT
 Repository  : https://github.com/Newbie-Appealer/Space-Mayhem
 
-Viedo       : https://www.youtube.com/watch?v=aq9Y19iT0CA
+Viedo       : https://youtu.be/JJW1zo3CBDQ
 
 </br>
 <hr>
