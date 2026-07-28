@@ -57,7 +57,7 @@ Steam : https://store.steampowered.com/app/4584990/One_Hit_Out/
 </br>
 
 ### 📅 개발기간
-2024.03 ~ 2024.11
+2024.02 ~ 2024.11
 </br>
 
 ### 👍 PlatForm & Language
